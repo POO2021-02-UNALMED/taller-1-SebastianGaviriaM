@@ -1,0 +1,1 @@
+La carpeta archivos no permitía ser commiteada, pero al tener algún archivo adentro, sí se detecta un cambio
