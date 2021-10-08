@@ -1,0 +1,1 @@
+No permite hacer commit cuando una carpeta está vacía
